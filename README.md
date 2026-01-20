@@ -1,10 +1,11 @@
-# US Securities Market Analysis: Market Heterogeneity and Crisis Response (2019-2021)
+# US Securities Market Analysis: How Different Markets Behave and Connect(2019-2021)
 
 **Author:** Emma Nagy  
 **Date:** September 2025  
 **Data Source:** SIFMA & FRED (2019-2021)
 
-[View Notebook](#) | [PDF Report](#)
+[![View Notebook](https://img.shields.io/badge/View-Notebook-orange?logo=jupyter)](https://nbviewer.org/github/enagy827/understanding-US-securities-markets/blob/main/US_Securities_Market_Analysis.ipynb)
+[![PDF Report](https://img.shields.io/badge/Download-PDF%20Report-red?logo=adobe)](report/Portfolio_Project_3__Understanding_US_Securities_Markets.pdf)
 
 ---
 
@@ -48,37 +49,17 @@ us-securities-market-analysis/
 
 ---
 
-## 📈 Key Visualizations
-
-### 1. Cross-Market Correlation Heatmap
-![Cross-Market Correlations](outputs/figures/figure_051.png)
-*Correlations between total monthly trading volumes across all major US securities markets. Range spans from -0.639 (Equity Trading and Repo GCF) to +0.954 (Treasury and Fixed Income).*
-
-### 2. Equity Trading vs Federal Funds Rate
-*Equity trading volume shows the study's strongest correlation with Fed policy (-0.803), demonstrating powerful monetary policy transmission.*
-
-### 3. Corporate Bonds vs High Yield Spread
-*Corporate bond trading intensifies during credit stress (0.581 correlation), while issuance continues largely unaffected (0.011), showing primary-secondary market divergence.*
-
-### 4. Treasury Trading Stability
-*Treasury markets maintained stable volumes (CV: 13.7%) throughout the pandemic, serving as the financial system's anchor.*
-
-### 5. Repo Market Segmentation
-*Three repo segments (Primary Dealer, GCF, Triparty) show low inter-correlations (0.030-0.434), revealing genuine market segmentation despite similar functions.*
-
----
-
 ## 🚀 How to Run This Analysis
 
 ### View Online (No Installation Required)
-[View the interactive notebook on nbviewer](#) →
+**[View the interactive notebook on nbviewer →](https://nbviewer.org/github/enagy827/understanding-US-securities-markets/blob/main/US_Securities_Market_Analysis.ipynb)**
 
 ### Run Locally
 
 #### Prerequisites
 - Python 3.8 or higher
 - Jupyter Notebook or JupyterLab
-- Excel files from SIFMA (or use included data)
+- Excel files from SIFMA 
 
 #### Option 1: Using Git
 ```bash
@@ -201,7 +182,7 @@ This analysis challenges conventional assumptions about market behavior:
 
 For detailed methodology, statistical analysis, comprehensive discussion, and policy implications, see the complete technical report:
 
-**[Download PDF Report →](report/US_Securities_Market_Analysis.pdf)**
+**[Download PDF Report →](report/Portfolio_Project_3__Understanding_US_Securities_Markets.pdf)**
 
 The report includes:
 - Comprehensive literature review and theoretical framework
@@ -226,8 +207,6 @@ All data used in this analysis is publicly available:
 - Access at: https://fred.stlouisfed.org/
 - Search for: "Federal Funds Rate", "CPI YoY", "High Yield Spread"
 - Download as CSV and import into analysis
-
-The `data/` folder in this repository contains the processed Excel files used in the analysis (as of August 2021).
 
 ---
 
@@ -264,9 +243,8 @@ This project demonstrates proficiency in:
 
 For questions, collaboration opportunities, or to discuss this research:
 
-- **Portfolio:** [emmanagy.net](https://emmanagy.net)
-- **LinkedIn:** [Emma Nagy](https://linkedin.com/in/emmanagy)
-- **GitHub:** [@enagy827](https://github.com/enagy827)
+- **Portfolio**: [[emmanagy.net](https://www.emmanagy.net/)]
+- **LinkedIn**: [[Emma Nagy](https://www.linkedin.com/in/emma-nagy/)]
 
 ---
 
@@ -288,4 +266,4 @@ This project is available for educational and research purposes. Please credit a
 
 ---
 
-**Last updated:** January 2025
+**Last updated:** January 2026
