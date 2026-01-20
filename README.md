@@ -33,7 +33,6 @@ This project analyzes trading volumes, issuance patterns, and macroeconomic rela
 
 ```
 us-securities-market-analysis/
-├── US_Securities_Market_Analysis.ipynb          # Complete Jupyter notebook with analysis
 ├── outputs/
 │   └── figures/                                 # All 95 visualizations (PNG)
 │       ├── figure_001.png                       # Treasury time series
@@ -45,6 +44,7 @@ us-securities-market-analysis/
 │   ├── US_Securities_Market_Analysis.pdf        # LaTeX-compiled report
 ├── requirements.txt                             # Python dependencies
 └── README.md                                    # This file
+└── US_Securities_Market_Analysis.ipynb          # Complete Jupyter notebook with analysis
 ```
 
 ---
