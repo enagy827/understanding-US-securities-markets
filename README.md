@@ -42,9 +42,9 @@ us-securities-market-analysis/
 │       └── figure_095.png                       # Corporate issuance vs HY spread
 ├── report/
 │   ├── US_Securities_Market_Analysis.pdf        # LaTeX-compiled report
-├── requirements.txt                             # Python dependencies
-└── README.md                                    # This file
+├──  README.md                                    # This file
 └── US_Securities_Market_Analysis.ipynb          # Complete Jupyter notebook with analysis
+└── requirements.txt                             # Python dependencies
 ```
 
 ---
